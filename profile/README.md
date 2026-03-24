@@ -1,12 +1,20 @@
-## Hi there 👋
+<p align="center">
+  <img src="logo.png" alt="PodcastorOrg Logo" width="150" height="auto">
+</p>
 
-<!--
+# PodcastorOrg
 
-**Here are some ideas to get you started:**
+Bienvenue sur la page de l'organisation **Podcastor** ! 
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## CONTACTS
+
+Ce projet est réalisé par :
+
+<table align="center">
+    <tbody>
+        <tr>
+            <td align="center"><a href="https://github.com/M7T5M3P/"><img src="https://avatars.githubusercontent.com/M7T5M3P?v=4&s=100" width="100px;" alt="M7T5M3P"/><br/><a href="https://github.com/M7T5M3P/"><img src="https://img.shields.io/github/followers/M7T5M3P?label=Mathys_T&style=social" alt="Mathys_T"/></a></td>
+            <td align="center"><a href="https://github.com/BARBARIN-Michael/"><img src="https://avatars.githubusercontent.com/BARBARIN-Michael?v=4&s=100" width="100px;" alt="BARBARIN-Michael"/><br/><a href="https://github.com/BARBARIN-Michael/"><img src="https://img.shields.io/github/followers/BARBARIN-Michael?label=BARBARIN-Michael&style=social" alt="BARBARIN-Michael"/></a></td>
+        </tr>
+    </tbody>
+</table>
